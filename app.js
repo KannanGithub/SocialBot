@@ -58,22 +58,22 @@ bot.dialog('activitiesButtonClick', [
         var clubOrganiser;
         switch (club[0]) {
             case 'Badders':
-                clubOrganiser = "Kannan Gnanasigamani";
+                clubOrganiser = "Vee Naga";
                 break;
             case 'Runners':
-                clubOrganiser = "Tony Ruddock";
+                clubOrganiser = "Matt Wilson";
                 break;
             case 'Cyclists':
-                clubOrganiser = "Paul Wilson";
+                clubOrganiser = "Devid Belton";
                 break;
             case 'Footers':
-                clubOrganiser = "Richard Longstaff";
+                clubOrganiser = "Matt Amis";
                 break;
             case 'Golfers':
-                clubOrganiser = "Dan Settle";
+                clubOrganiser = "Jerold Butler";
                 break;
             case 'Bodybuilders':
-                clubOrganiser = "Jason Barker";
+                clubOrganiser = "Jack Smith";
         }
 
         session.userData.organiser = clubOrganiser;
