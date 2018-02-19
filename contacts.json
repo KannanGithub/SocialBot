@@ -1,0 +1,42 @@
+[{ 
+    "name": "Vee Naga",
+    "phone": "0113 11111",
+    "gender": "Male",
+    "department": "IT",
+    
+},
+{ 
+    "name": "Matt Wilson",
+    "phone": "0113 22222",
+    "gender": "Male",
+    "department": "IT",
+    "jobTitle": "Senior Software Engineer"
+},
+{ 
+    "name": "Devid Belton",
+    "phone": "0113 33333",
+    "gender": "Male",
+    "department": "Retail",
+    "jobTitle": "Engineering Manager"
+},
+{ 
+    "name": "Matt Amis",
+    "phone": "0113 44444",
+    "gender": "Male",
+    "department": "Accounts",
+    "jobTitle": "Senior Support Specialist"
+},
+{ 
+    "name": "Jerold Butler",
+    "phone": "0113 55555",
+    "gender": "Male",
+    "department": "IT",
+    "jobTitle": "IT Delivery Lead - BI"
+},
+{ 
+    "name": "Jack Smith",
+    "phone": "0113 66666",
+    "gender": "Male",
+    "department": "IT",
+    "jobTitle": "Software Engineer"
+}]
