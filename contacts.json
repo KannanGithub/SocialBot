@@ -3,7 +3,7 @@
     "phone": "0113 11111",
     "gender": "Male",
     "department": "IT",
-    
+    jobTitle": "Software Engineer"
 },
 { 
     "name": "Matt Wilson",
@@ -27,7 +27,7 @@
     "jobTitle": "Senior Support Specialist"
 },
 { 
-    "name": "Jerold Butler",
+    "name": "Joe Root",
     "phone": "0113 55555",
     "gender": "Male",
     "department": "IT",
